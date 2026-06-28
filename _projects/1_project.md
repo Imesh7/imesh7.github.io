@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Sinhala TTS
+description: Sinhala text to speech model based on Zipvoice architecture
 img: assets/img/12.jpg
 importance: 1
 category: work
