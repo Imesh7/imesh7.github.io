@@ -2,7 +2,7 @@
 layout: about
 title: Imesh Madushanka
 permalink: /
-subtitle: Life long learner and open-source enthusiast
+subtitle: Life long learner and open-source enthusiast.
 
 profile:
   align: right
