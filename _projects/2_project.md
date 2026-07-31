@@ -4,7 +4,7 @@ title: ACE STEP
 description: model to generate text-to-song
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: paper implementation
 giscus_comments: true
 ---
 

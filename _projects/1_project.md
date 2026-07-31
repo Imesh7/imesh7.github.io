@@ -6,7 +6,7 @@ img: assets/img/12.jpg
 redirect: https://github.com/Imesh7/sinhala-tts
 gradio: https://huggingface.co/imesh7/sinhala-tts
 importance: 1
-category: work
+category: paper implementation
 related_publications: true
 ---
 
